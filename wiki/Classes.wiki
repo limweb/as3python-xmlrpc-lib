@@ -2,9 +2,8 @@
 
 = Classes =
 
-  * PYTHONXMLRPCServer
-  * PYTHONXMLRPCService
-
+  * [http://code.google.com/p/as3python-xmlrpc-lib/wiki/PYTHONXMLRPCServer PYTHONXMLRPCServer]
+  * [http://code.google.com/p/as3python-xmlrpc-lib/wiki/PYTHONXMLRPCService PYTHONXMLRPCService]
 
 = Details =
 
